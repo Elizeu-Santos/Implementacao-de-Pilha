@@ -1,4 +1,4 @@
-# Implementação de Pilha com alocação dinâmica
+# Implementação de pilha com alocação dinâmica 👨🏽‍💻
 ## Atividade
 
 - Fazer um programa que implemente uma pilha com alocação dinâmica, para armazenar números inteiros.
