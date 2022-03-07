@@ -7,8 +7,6 @@
 
 #### As opções permitidas para o usuário são:
 
-🖊️ Empilhar um elemento (inserir na pilha)
-
-🖊️ Desempilhar um elemento (retirar o elemento do topo da pilha)
-
-🖊️ Imprimir o conteúdo da pilha.
+🖊️ Empilhar um elemento (inserir na pilha)<br>
+🖊️ Desempilhar um elemento (retirar o elemento do topo da pilha)<br>
+🖊️ Imprimir o conteúdo da pilha.<br>
